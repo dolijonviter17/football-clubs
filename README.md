@@ -5,6 +5,4 @@
 ### Deskripsi
 
 - **[Crud (Create, Update, Delete)]**
-- **[Question, Answer, Vote, View]**
-- **[Vote Up dan Vote Down Fitur,]**
-- **[Favorites Fitur dan Mark Fitur]**
+- **[Management Player based Club]**
