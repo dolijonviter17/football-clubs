@@ -1,4 +1,4 @@
-![images](https://github.com/dolijonviter17/football-clubs/master/public/app-image/soccer.png)
+![images](https://github.com/dolijonviter17/football-clubs/blob/master/public/app-image/soccer.png)
 
 
 
